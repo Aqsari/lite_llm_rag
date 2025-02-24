@@ -1,1 +1,1 @@
-berikut merupakan penerapan sederhana dari LLM yang menggunakan RAG
+Implementasikan secara sederhana proses memasukan sebuah file PDF/File dokumen jenis lain ke dalam suatu vector DB
