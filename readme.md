@@ -1,4 +1,4 @@
-Berikut adalah penjelasan sederhana mengenai kode yang diberikan, dengan menggunakan kalimat deskriptif untuk setiap bagian:
+Berikut adalah penjelasan kode untuk setiap bagian:
 
 ### Penjelasan Kode
 
