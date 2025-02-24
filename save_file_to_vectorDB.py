@@ -5,7 +5,7 @@ import faiss
 import numpy as np
 
 # Set your Hugging Face token
-os.environ['HUGGINGFACE_TOKEN'] = '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'
+os.environ['HUGGINGFACE_TOKEN'] = 'xxxx'
 
 def read_pdf(file_path):
     with open(file_path, 'rb') as file:
